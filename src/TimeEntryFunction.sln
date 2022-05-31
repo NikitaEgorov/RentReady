@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeEntryFunction", "TimeEntryFunction\TimeEntryFunction.csproj", "{63904FFC-66F4-4602-B240-3A410D86F460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeEntryFunction.Tests", "TimeEntryFunction.Tests\TimeEntryFunction.Tests.csproj", "{F9619390-73D8-4AA5-A16E-E235B57D8B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63904FFC-66F4-4602-B240-3A410D86F460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63904FFC-66F4-4602-B240-3A410D86F460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63904FFC-66F4-4602-B240-3A410D86F460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63904FFC-66F4-4602-B240-3A410D86F460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9619390-73D8-4AA5-A16E-E235B57D8B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9619390-73D8-4AA5-A16E-E235B57D8B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9619390-73D8-4AA5-A16E-E235B57D8B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9619390-73D8-4AA5-A16E-E235B57D8B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1F84166-126F-44C6-BD82-324918ABFC6F}
+	EndGlobalSection
+EndGlobal
